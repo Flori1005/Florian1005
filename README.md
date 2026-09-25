@@ -4,6 +4,6 @@
 
 * In my free time, I work on projects with my Raspberry Pi, where I run Docker containers for n8n, Pi-hole, and Home Assistant.
 
-* I enjoy creating fun side projects that use APIs from games and websites.
+* I enjoy creating fun side projects that use many diffrent solutions for the unique problems within games and websites.
 
 * I use n8n to build automated tracking features for games or to send myself personalized messages based on news and other updates.
